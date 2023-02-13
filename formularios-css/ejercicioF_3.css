@@ -1,0 +1,32 @@
+h1{
+    text-align: right;
+}
+body{
+    background-color: skyblue;
+}
+fieldset{
+    border-style: dashed;
+    border-color: blue;
+}
+legend{
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 5px 25px;
+    margin: 8px 0;
+}
+
+.titulo{
+
+    border-bottom-style: dashed;
+    border-color: blue;
+    letter-spacing: 10px;
+ }
+ .subrayado{
+    border-bottom: solid 1px black;
+ }
+ .der{
+    text-align: right;
+ }
